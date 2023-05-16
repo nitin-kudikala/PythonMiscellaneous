@@ -1,0 +1,23 @@
+{"intents":[
+  {"tag":"greetings",
+   "patterns":["hello","hi","good day","greetings","what's up?","how is it going?"],
+   "responses":["Hello!","Hey!","what can i help with you?"]
+  },
+  {"tag":"goodbye",
+   "patterns":["cya","Goodbye","See you later","I am leaving","Have a Good day","bye","cao","see ya"],
+   "responses":["sad to see you go :(","Talk to you later","Goodbye"]
+  },
+  {"tag":"age",
+   "patterns":["how old","how old is florian","what is your age","how old are you","age?"],
+   "responses":["my owner Florian is 21 year old!","21 year"]
+  },
+  {"tag":"name",
+   "patterns":["what is your name","what should I call you","what your name?","can you tell me"],
+   "responses":["you can call me ML!","I'm ML!"]
+  },
+  {"tag":"greetings",
+   "patterns":["hello","hi"],
+   "responses":["Hello!","Hey!","what can i help with you?"]
+  }  
+]
+}
