@@ -8,12 +8,12 @@
    "responses":["sad to see you go :(","Talk to you later","Goodbye"]
   },
   {"tag":"age",
-   "patterns":["how old","how old is florian","what is your age","how old are you","age?"],
-   "responses":["my owner Florian is 21 year old!","21 year"]
+   "patterns":["how old","how old is Nitin","what is your age","how old are you","age?"],
+   "responses":["my owner Nitin is 35 year old!","35 year"]
   },
   {"tag":"name",
    "patterns":["what is your name","what should I call you","what your name?","can you tell me"],
-   "responses":["you can call me ML!","I'm ML!"]
+   "responses":["you can call me ML!","I'm ML!", "you can call me Neural!"]
   },
   {"tag":"greetings",
    "patterns":["hello","hi"],
